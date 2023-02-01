@@ -1,0 +1,16 @@
+body{
+  background-color: brown;
+  color: white;
+}
+
+div{
+  width: 40%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+ul{
+  list-style: none;
+  text-decoration: underline;
+  font-size: 1.5em;
+}
